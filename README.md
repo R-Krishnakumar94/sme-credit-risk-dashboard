@@ -112,13 +112,7 @@ Make sure the model file `xgb_credit_model.pkl` is in the same folder.
 
 ## 📸 Preview
 
-### 🎯 Prediction Results
-
-![screenshot-1](link-to-your-screenshot-if-you-add-one)
-
-### 📊 Risk Distribution Chart
-
-![screenshot-2](link-to-your-screenshot-if-you-add-one)
+![screenshot-1](screenshot-1.png)
 
 ---
 
