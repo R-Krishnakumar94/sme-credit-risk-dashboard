@@ -18,7 +18,7 @@ An AI-powered credit risk scoring dashboard designed for **small and medium-size
 - [🧠 Model Details](#-model-details)
 - [🧾 Dataset Description](#-dataset-description)
 - [💻 How to Run This App](#-how-to-run-this-app)
-- [📸 Screenshots](#-screenshots)
+- [📸 Preview](#-preview)
 - [🛠 Tech Stack](#-tech-stack)
 - [🧑‍💼 Use Cases](#-use-cases)
 - [📈 Future Enhancements](#-future-enhancements)
@@ -110,7 +110,7 @@ Make sure the model file `xgb_credit_model.pkl` is in the same folder.
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
 ### 🎯 Prediction Results
 
