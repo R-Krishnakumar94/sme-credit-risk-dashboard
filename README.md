@@ -1,3 +1,4 @@
+
 # 💳 SME Credit Risk Scoring Dashboard
 
 An AI-powered credit risk scoring dashboard designed for **small and medium-sized enterprises (SMEs)**. This Streamlit app enables banks, fintech companies, and lenders to assess the risk level of SMEs using key financial and behavioral indicators.
@@ -91,3 +92,71 @@ Synthetic dataset of **1,000 SME records** with the following fields:
 ```bash
 git clone https://github.com/R-Krishnakumar94/sme-credit-risk-dashboard.git
 cd sme-credit-risk-dashboard
+```
+
+### 2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Streamlit app:
+
+```bash
+streamlit run credit_app.py
+```
+
+Make sure the model file `xgb_credit_model.pkl` is in the same folder.
+
+---
+
+## 📸 Screenshots
+
+### 🎯 Prediction Results
+
+![screenshot-1](link-to-your-screenshot-if-you-add-one)
+
+### 📊 Risk Distribution Chart
+
+![screenshot-2](link-to-your-screenshot-if-you-add-one)
+
+---
+
+## 🛠 Tech Stack
+
+- Python 3.x
+- Streamlit
+- XGBoost
+- Pandas, NumPy
+- scikit-learn
+- joblib
+- Excel (`.xlsx`) as input
+
+---
+
+## 🧑‍💼 Use Cases
+
+- Credit assessment for MSMEs by banks or NBFCs
+- Fintech loan approval platforms
+- Government-backed microfinance scoring tools
+- Financial inclusion analytics
+- Risk-as-a-Service prototype for small business lending
+
+---
+
+## 📈 Future Enhancements
+
+- ✅ SHAP-based explainability (why a business is risky)
+- ✅ PDF report generator per SME
+- ✅ Upload multiple files / batch processing
+- ✅ API deployment using FastAPI
+- ✅ Authentication for secured use
+
+---
+
+## 📬 Contact
+
+**Rakesh Krishna Kumar**  
+📧 rakesh.krishee@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-krishna-kumar)  
+💼 [GitHub](https://github.com/R-Krishnakumar94)
