@@ -1,6 +1,6 @@
 # 💳 SME Credit Risk Scoring Dashboard
 
-An AI-powered credit risk scoring dashboard designed for **small and medium-sized enterprises (SMEs)**. This Streamlit app enables banks, fintech companies, and lenders to assess the risk level of SMEs using key financial and behavioral indicators.
+An AI-powered credit risk scoring dashboard designed for **small and medium-sized enterprises (SMEs)**. It is termed "AI-powered" because it uses machine learning models (specifically XGBoost) to analyze patterns in financial data and predict the likelihood of loan default. This Streamlit app enables banks, fintech companies, and lenders to assess the risk level of SMEs using key financial and behavioral indicators.
 
 🔗 **Live App**: [http://bit.ly/45EmzRz](http://bit.ly/45EmzRz)  
 📦 **Model**: Trained using XGBoost on synthetic SME financial data  
