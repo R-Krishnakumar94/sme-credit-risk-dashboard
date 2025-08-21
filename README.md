@@ -142,7 +142,7 @@ Synthetic dataset of **1,000 SME records** with the following fields:
 
 | Column                     | Description |
 |----------------------------|-------------|
-| `monthly_income`           | Monthly revenue in INR |
+| `monthly_income`           | Monthly revenue|
 | `monthly_expense`          | Total operating cost |
 | `net_profit_margin`        | Profit as a % of income |
 | `missed_payments_last_6m`  | Count of late utility/invoice payments |
